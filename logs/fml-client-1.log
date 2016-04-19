@@ -1,0 +1,721 @@
+[14:12:23] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[14:12:23] [main/INFO] [FML/]: Forge Mod Loader version 11.15.1.1855 for Minecraft 1.8.9 loading
+[14:12:23] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_74, running on Mac OS X:x86_64:10.11.4, installed at /Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre
+[14:12:23] [main/DEBUG] [FML/]: Java classpath at launch is /Applications/MultiMC.app/Contents/MacOS/jars/NewLaunch.jar
+[14:12:23] [main/DEBUG] [FML/]: Java library path at launch is /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/natives
+[14:12:23] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[14:12:23] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[14:12:23] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[14:12:23] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[14:12:23] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[14:12:23] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[14:12:23] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[14:12:23] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft
+[14:12:23] [main/DEBUG] [FML/]: Discovering coremods
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy agricraft-2.0.0a3.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in agricraft-2.0.0a3.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy AppleCore-mc1.8.9-1.3.0.jar
+[14:12:23] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in AppleCore-mc1.8.9-1.3.0.jar, it will be examined later for regular @Mod instances
+[14:12:23] [main/DEBUG] [FML/]: Instantiating coremod class AppleCore
+[14:12:23] [main/DEBUG] [FML/]: The coremod squeek.applecore.AppleCore requested minecraft version 1.8.9 and minecraft is 1.8.9. It will be loaded.
+[14:12:23] [main/DEBUG] [FML/]: Enqueued coremod AppleCore
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy Bagginses-1.8.9-2.1.5b.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in Bagginses-1.8.9-2.1.5b.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy Baubles-1.8.9-1.1.3.0.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in Baubles-1.8.9-1.1.3.0.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy BiomesOPlenty-1.8.9-3.0.0.2004-universal.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in BiomesOPlenty-1.8.9-3.0.0.2004-universal.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy BloodMagic-1.8.9-2.0.0-20.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in BloodMagic-1.8.9-2.0.0-20.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy Botania-unofficial.r1.8-299.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in Botania-unofficial.r1.8-299.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy Chameleon-1.8.9-1.1.2.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in Chameleon-1.8.9-1.1.2.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy Chisel-MC1.8.9-0.0.2.6.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in Chisel-MC1.8.9-0.0.2.6.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy chiselsandbits-8.8.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in chiselsandbits-8.8.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy extraplates-1.0.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in extraplates-1.0.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy FastLeafDecay-1.8-1.6.jar
+[14:12:23] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in FastLeafDecay-1.8-1.6.jar, it will be examined later for regular @Mod instances
+[14:12:23] [main/DEBUG] [FML/]: Instantiating coremod class FldLoadingPlugin
+[14:12:23] [main/WARN] [FML/]: The coremod com.olafski.fastleafdecay.FldLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:12:23] [main/DEBUG] [FML/]: Enqueued coremod FldLoadingPlugin
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy InventoryTweaks-1.60-40.jar
+[14:12:23] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.60-40.jar, it will be examined later for regular @Mod instances
+[14:12:23] [main/DEBUG] [FML/]: Instantiating coremod class FMLPlugin
+[14:12:23] [main/WARN] [FML/]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:12:23] [main/DEBUG] [FML/]: Added access transformer class invtweaks.forge.asm.ITAccessTransformer to enqueued access transformers
+[14:12:23] [main/DEBUG] [FML/]: Enqueued coremod FMLPlugin
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy ironchest-1.8.9-6.0.125.770.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in ironchest-1.8.9-6.0.125.770.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy jei_1.8.9-2.28.16.184.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in jei_1.8.9-2.28.16.184.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy JEIAddons_1.8.9-0.12.0.57.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in JEIAddons_1.8.9-0.12.0.57.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy journeymap-1.8.9-5.1.5-unlimited.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in journeymap-1.8.9-5.1.5-unlimited.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy justenoughoverlays-1.0.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in justenoughoverlays-1.0.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy JustEnoughResources-1.8.9-0.4.0.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in JustEnoughResources-1.8.9-0.4.0.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy Mantle-1.8.9-0.9.2.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in Mantle-1.8.9-0.9.2.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy Morpheus-1.8.9-2.0.58.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in Morpheus-1.8.9-2.0.58.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy Psi-beta-23.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in Psi-beta-23.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy redstonepaste-mc1.8.8-1.7.2.jar
+[14:12:23] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in redstonepaste-mc1.8.8-1.7.2.jar, it will be examined later for regular @Mod instances
+[14:12:23] [main/DEBUG] [FML/]: Instantiating coremod class NowWithRendering
+[14:12:23] [main/WARN] [FML/]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:12:23] [main/DEBUG] [FML/]: Enqueued coremod NowWithRendering
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy RoguelikeDungeons-1.8.9-1.4.5.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in RoguelikeDungeons-1.8.9-1.4.5.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy StorageDrawers-1.8.9-2.6.4.jar
+[14:12:23] [main/DEBUG] [FML/]: Not found coremod data in StorageDrawers-1.8.9-2.6.4.jar
+[14:12:23] [main/DEBUG] [FML/]: Examining for coremod candidacy TConstruct-1.8.9-2.2.1.jar
+[14:12:24] [main/DEBUG] [FML/]: Not found coremod data in TConstruct-1.8.9-2.2.1.jar
+[14:12:24] [main/DEBUG] [FML/]: Examining for coremod candidacy Thaumcraft-1.8.9-5.2.4.jar
+[14:12:24] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in Thaumcraft-1.8.9-5.2.4.jar, it will be examined later for regular @Mod instances
+[14:12:24] [main/DEBUG] [FML/]: Instantiating coremod class ThaumcraftLoader
+[14:12:24] [main/WARN] [FML/]: The coremod thaumcraft.loader.ThaumcraftLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:12:24] [main/DEBUG] [FML/]: Enqueued coremod ThaumcraftLoader
+[14:12:24] [main/DEBUG] [FML/]: Examining for coremod candidacy Waila-1.6.0-B3_1.8.8.jar
+[14:12:24] [main/DEBUG] [FML/]: Not found coremod data in Waila-1.6.0-B3_1.8.8.jar
+[14:12:24] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:12:24] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:12:24] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:12:24] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:12:24] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:12:24] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[14:12:24] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[14:12:24] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[14:12:24] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[14:12:24] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[14:12:24] [main/DEBUG] [FML/]: Injection complete
+[14:12:24] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[14:12:24] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[14:12:24] [main/DEBUG] [FML/]: Read 825 binary patches
+[14:12:24] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.8.9.lzma with 27891 records
+[14:12:25] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[14:12:25] [main/INFO] [FML/]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[14:12:25] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[14:12:25] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:12:25] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[14:12:25] [main/DEBUG] [FML/]: Injection complete
+[14:12:25] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[14:12:25] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[14:12:25] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[14:12:25] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:12:25] [main/DEBUG] [FML/]: Injecting coremod FMLPlugin {invtweaks.forge.asm.FMLPlugin} class transformers
+[14:12:25] [main/TRACE] [FML/]: Registering transformer invtweaks.forge.asm.ContainerTransformer
+[14:12:25] [main/DEBUG] [FML/]: Injection complete
+[14:12:25] [main/DEBUG] [FML/]: Running coremod plugin for FMLPlugin {invtweaks.forge.asm.FMLPlugin}
+[14:12:25] [main/DEBUG] [FML/]: Running coremod plugin FMLPlugin
+[14:12:25] [main/DEBUG] [FML/]: Coremod plugin class FMLPlugin run successfully
+[14:12:25] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:12:25] [main/DEBUG] [FML/]: Injecting coremod NowWithRendering {net.fybertech.nwr.NowWithRendering} class transformers
+[14:12:25] [main/TRACE] [FML/]: Registering transformer net.fybertech.nwr.NowWithRendering
+[14:12:25] [main/DEBUG] [FML/]: Injection complete
+[14:12:25] [main/DEBUG] [FML/]: Running coremod plugin for NowWithRendering {net.fybertech.nwr.NowWithRendering}
+[14:12:25] [main/DEBUG] [FML/]: Running coremod plugin NowWithRendering
+[14:12:25] [main/DEBUG] [FML/]: Coremod plugin class NowWithRendering run successfully
+[14:12:25] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:12:25] [main/DEBUG] [FML/]: Injecting coremod ThaumcraftLoader {thaumcraft.loader.ThaumcraftLoader} class transformers
+[14:12:25] [main/DEBUG] [FML/]: Injection complete
+[14:12:25] [main/DEBUG] [FML/]: Running coremod plugin for ThaumcraftLoader {thaumcraft.loader.ThaumcraftLoader}
+[14:12:25] [main/DEBUG] [FML/]: Running coremod plugin ThaumcraftLoader
+[14:12:26] [main/DEBUG] [FML/]: Coremod plugin class ThaumcraftLoader run successfully
+[14:12:26] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:12:26] [main/DEBUG] [FML/]: Loaded 165 rules from AccessTransformer config file forge_at.cfg
+[14:12:26] [main/DEBUG] [FML/]: Loaded 10 rules from AccessTransformer config file invtweaks_at.cfg
+[14:12:26] [main/DEBUG] [FML/]: Loaded 2 rules from AccessTransformer mod jar file /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/mods/JustEnoughResources-1.8.9-0.4.0.jar!META-INF/jeresources_at.cfg
+
+[14:12:26] [main/DEBUG] [FML/]: Loaded 4 rules from AccessTransformer mod jar file /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/mods/chiselsandbits-8.8.jar!META-INF/chiselsandbits_at.cfg
+
+[14:12:26] [main/DEBUG] [FML/]: Loaded 1 rules from AccessTransformer mod jar file /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/mods/Chisel-MC1.8.9-0.0.2.6.jar!META-INF/chisel_at.cfg
+
+[14:12:26] [main/DEBUG] [FML/]: Loaded 21 rules from AccessTransformer mod jar file /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/mods/TConstruct-1.8.9-2.2.1.jar!META-INF/TConstruct_at.cfg
+
+[14:12:26] [main/DEBUG] [FML/]: Loaded 10 rules from AccessTransformer mod jar file /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/mods/BiomesOPlenty-1.8.9-3.0.0.2004-universal.jar!META-INF/biomesoplenty_at.cfg
+
+[14:12:26] [main/DEBUG] [FML/]: Loaded 7 rules from AccessTransformer mod jar file /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/mods/jei_1.8.9-2.28.16.184.jar!META-INF/jei_at.cfg
+
+[14:12:26] [main/DEBUG] [FML/]: Validating minecraft
+[14:12:26] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[14:12:26] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:12:26] [main/DEBUG] [FML/]: Injecting coremod FldLoadingPlugin {com.olafski.fastleafdecay.FldLoadingPlugin} class transformers
+[14:12:26] [main/TRACE] [FML/]: Registering transformer com.olafski.fastleafdecay.FldTransformer
+[14:12:26] [main/DEBUG] [FML/]: Injection complete
+[14:12:26] [main/DEBUG] [FML/]: Running coremod plugin for FldLoadingPlugin {com.olafski.fastleafdecay.FldLoadingPlugin}
+[14:12:26] [main/DEBUG] [FML/]: Running coremod plugin FldLoadingPlugin
+[14:12:26] [main/DEBUG] [FML/]: Coremod plugin class FldLoadingPlugin run successfully
+[14:12:26] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:12:26] [main/DEBUG] [FML/]: Injecting coremod AppleCore {squeek.applecore.AppleCore} class transformers
+[14:12:26] [main/TRACE] [FML/]: Registering transformer squeek.applecore.asm.TransformerModuleHandler
+[14:12:26] [main/DEBUG] [FML/]: Injection complete
+[14:12:26] [main/DEBUG] [FML/]: Running coremod plugin for AppleCore {squeek.applecore.AppleCore}
+[14:12:26] [main/DEBUG] [FML/]: Running coremod plugin AppleCore
+[14:12:26] [main/DEBUG] [FML/]: Coremod plugin class AppleCore run successfully
+[14:12:26] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:12:26] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:12:26] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[14:12:27] [Client thread/INFO] [FastLeafDecay/]: Patching leaves.
+[14:12:27] [Client thread/INFO] [FastLeafDecay/]: Found Leave Class: net/minecraft/block/BlockLeavesBase
+[14:12:29] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - LanguageManager took 0.006s
+[14:12:29] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - Animation took 0.000s
+[14:12:29] [Client thread/INFO] [FML/]: MinecraftForge v11.15.1.1855 Initialized
+[14:12:29] [Client thread/INFO] [FML/]: Replaced 229 ore recipies
+[14:12:30] [Client thread/DEBUG] [FML/]: File /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/config/injectedDependencies.json not found. No dependencies injected
+[14:12:30] [Client thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[14:12:30] [Client thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a minecraft related file at /Applications/MultiMC.app/Contents/MacOS/jars/NewLaunch.jar, examining for mod candidates
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a minecraft related directory at /System/Library/Java, examining for mod candidates
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a minecraft related file at /Applications/MultiMC.app/Contents/MacOS/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar, examining for mod candidates
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a minecraft related file at /Applications/MultiMC.app/Contents/MacOS/libraries/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar, examining for mod candidates
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a minecraft related file at /Applications/MultiMC.app/Contents/MacOS/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar, examining for mod candidates
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a minecraft related file at /Applications/MultiMC.app/Contents/MacOS/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar, examining for mod candidates
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/com/google/guava/guava/17.0/guava-17.0.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/com/mojang/authlib/1.5.21/authlib-1.5.21.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/com/mojang/realms/1.7.59/realms-1.7.59.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/tv/twitch/twitch/6.5/twitch-6.5.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a minecraft related file at /Applications/MultiMC.app/Contents/MacOS/libraries/net/minecraftforge/forge/1.8.9-11.15.1.1855/forge-1.8.9-11.15.1.1855-universal.jar, examining for mod candidates
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a minecraft related file at /Applications/MultiMC.app/Contents/MacOS/libraries/jline/jline/2.13/jline-2.13.jar, examining for mod candidates
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a minecraft related file at /Applications/MultiMC.app/Contents/MacOS/versions/1.8.9/1.8.9.jar, examining for mod candidates
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/mods/AppleCore-mc1.8.9-1.3.0.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/mods/FastLeafDecay-1.8-1.6.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/mods/InventoryTweaks-1.60-40.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/mods/redstonepaste-mc1.8.8-1.7.2.jar
+[14:12:30] [Client thread/TRACE] [FML/]: Skipping known library file /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/mods/Thaumcraft-1.8.9-5.2.4.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[14:12:30] [Client thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[14:12:30] [Client thread/INFO] [FML/]: Searching /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/mods for mods
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate mod directory 1.8.9
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file agricraft-2.0.0a3.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file AppleCore-mc1.8.9-1.3.0.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Bagginses-1.8.9-2.1.5b.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file BiomesOPlenty-1.8.9-3.0.0.2004-universal.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file BloodMagic-1.8.9-2.0.0-20.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Botania-unofficial.r1.8-299.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Chameleon-1.8.9-1.1.2.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Chisel-MC1.8.9-0.0.2.6.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file chiselsandbits-8.8.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file extraplates-1.0.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file FastLeafDecay-1.8-1.6.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file InventoryTweaks-1.60-40.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file ironchest-1.8.9-6.0.125.770.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file jei_1.8.9-2.28.16.184.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file JEIAddons_1.8.9-0.12.0.57.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file journeymap-1.8.9-5.1.5-unlimited.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file justenoughoverlays-1.0.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file JustEnoughResources-1.8.9-0.4.0.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Mantle-1.8.9-0.9.2.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Morpheus-1.8.9-2.0.58.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Psi-beta-23.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file redstonepaste-mc1.8.8-1.7.2.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file RoguelikeDungeons-1.8.9-1.4.5.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file StorageDrawers-1.8.9-2.6.4.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file TConstruct-1.8.9-2.2.1.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Thaumcraft-1.8.9-5.2.4.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Waila-1.6.0-B3_1.8.8.jar
+[14:12:30] [Client thread/INFO] [FML/]: Also searching /Applications/MultiMC.app/Contents/MacOS/instances/Flamebroiled Refired/minecraft/mods/1.8.9 for mods
+[14:12:30] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Baubles-1.8.9-1.1.3.0.jar
+[14:12:30] [Client thread/DEBUG] [FML/]: Examining file NewLaunch.jar for potential mods
+[14:12:30] [Client thread/DEBUG] [FML/]: The mod container NewLaunch.jar appears to be missing an mcmod.info file
+[14:12:30] [Client thread/DEBUG] [FML/]: Examining directory Java for potential mods
+[14:12:30] [Client thread/DEBUG] [FML/]: No mcmod.info file found in directory Java
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Extensions
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.MacOS
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.Dutch.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.English.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.French.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.German.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.Italian.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.Japanese.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.Spanish.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.ar.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.ca.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.cs.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.da.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.el.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.es_MX.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.fi.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.he.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.hr.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.hu.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.id.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.ko.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.ms.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.no.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.pl.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.pt.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.pt_PT.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.ro.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.ru.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.sk.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.sv.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.th.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.tr.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.uk.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.vi.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.zh_CN.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents.Resources.zh_TW.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.Download Java Components.app.Contents._CodeSignature
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.MacOS
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.Dutch.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.English.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.French.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.German.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.Italian.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.Japanese.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.Spanish.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.ar.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.ca.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.cs.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.da.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.el.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.es_MX.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.fi.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.he.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.hr.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.hu.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.id.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.ko.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.ms.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.no.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.pl.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.pt.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.pt_PT.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.ro.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.ru.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.sk.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.sv.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.th.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.tr.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.uk.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.vi.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.zh_CN.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents.Resources.zh_TW.lproj
+[14:12:30] [Client thread/TRACE] [FML/]: Recursing into package Support.CoreDeploy.bundle.Contents.JavaAppletPlugin.plugin.Contents._CodeSignature
+[14:12:30] [Client thread/DEBUG] [FML/]: Examining file oshi-core-1.1.jar for potential mods
+[14:12:30] [Client thread/DEBUG] [FML/]: The mod container oshi-core-1.1.jar appears to be missing an mcmod.info file
+[14:12:30] [Client thread/DEBUG] [FML/]: Examining file jna-3.4.0.jar for potential mods
+[14:12:30] [Client thread/DEBUG] [FML/]: The mod container jna-3.4.0.jar appears to be missing an mcmod.info file
+[14:12:30] [Client thread/DEBUG] [FML/]: Examining file platform-3.4.0.jar for potential mods
+[14:12:30] [Client thread/DEBUG] [FML/]: The mod container platform-3.4.0.jar appears to be missing an mcmod.info file
+[14:12:30] [Client thread/DEBUG] [FML/]: Examining file libraryjavasound-20101123.jar for potential mods
+[14:12:30] [Client thread/DEBUG] [FML/]: The mod container libraryjavasound-20101123.jar appears to be missing an mcmod.info file
+[14:12:30] [Client thread/DEBUG] [FML/]: Examining file forge-1.8.9-11.15.1.1855-universal.jar for potential mods
+[14:12:30] [Client thread/DEBUG] [FML/]: The mod container forge-1.8.9-11.15.1.1855-universal.jar appears to be missing an mcmod.info file
+[14:12:30] [Client thread/DEBUG] [FML/]: Examining file jline-2.13.jar for potential mods
+[14:12:30] [Client thread/DEBUG] [FML/]: The mod container jline-2.13.jar appears to be missing an mcmod.info file
+[14:12:30] [Client thread/DEBUG] [FML/]: Examining file 1.8.9.jar for potential mods
+[14:12:30] [Client thread/DEBUG] [FML/]: The mod container 1.8.9.jar appears to be missing an mcmod.info file
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining directory 1.8.9 for potential mods
+[14:12:31] [Client thread/DEBUG] [FML/]: No mcmod.info file found in directory 1.8.9
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file agricraft-2.0.0a3.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file agricraft-2.0.0a3.jar
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.infinityraider.agricraft.AgriCraft) - loading
+[14:12:31] [Client thread/TRACE] [agricraft/]: Parsed dependency info : [] [] []
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file AppleCore-mc1.8.9-1.3.0.jar for potential mods
+[14:12:31] [Client thread/DEBUG] [FML/]: The mod container AppleCore-mc1.8.9-1.3.0.jar appears to be missing an mcmod.info file
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (squeek.applecore.AppleCore) - loading
+[14:12:31] [Client thread/TRACE] [AppleCore/]: Parsed dependency info : [Forge@[11.15.1.1802,)] [JEI@[2.26,), Forge@[11.15.1.1802,)] []
+[14:12:31] [Client thread/INFO] [AppleCore/]: Mod AppleCore is missing the required element 'name'. Substituting AppleCore
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file Bagginses-1.8.9-2.1.5b.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Bagginses-1.8.9-2.1.5b.jar
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (nl.lang2619.bagginses.Bagginses) - loading
+[14:12:31] [Client thread/TRACE] [bagginses/]: Parsed dependency info : [] [] []
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file BiomesOPlenty-1.8.9-3.0.0.2004-universal.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file BiomesOPlenty-1.8.9-3.0.0.2004-universal.jar
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (biomesoplenty.core.BiomesOPlenty) - loading
+[14:12:31] [Client thread/TRACE] [BiomesOPlenty/]: Parsed dependency info : [Forge@[11.14.3.1468,)] [Forge@[11.14.3.1468,)] []
+[14:12:31] [Client thread/DEBUG] [BiomesOPlenty/]: Attempting to load the file version.properties from BiomesOPlenty-1.8.9-3.0.0.2004-universal.jar to locate a version number for BiomesOPlenty
+[14:12:31] [Client thread/DEBUG] [BiomesOPlenty/]: Found version 3.0.0 for mod BiomesOPlenty in version.properties, using
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file BloodMagic-1.8.9-2.0.0-20.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file BloodMagic-1.8.9-2.0.0-20.jar
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (WayofTime.bloodmagic.BloodMagic) - loading
+[14:12:31] [Client thread/TRACE] [BloodMagic/]: Parsed dependency info : [] [JEI@[2.23.0,), guideapi] []
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file Botania-unofficial.r1.8-299.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Botania-unofficial.r1.8-299.jar
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (vazkii.botania.common.Botania) - loading
+[14:12:31] [Client thread/TRACE] [Botania/]: Parsed dependency info : [Baubles] [Baubles, Thaumcraft] []
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file Chameleon-1.8.9-1.1.2.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Chameleon-1.8.9-1.1.2.jar
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.jaquadro.minecraft.chameleon.Chameleon) - loading
+[14:12:31] [Client thread/TRACE] [Chameleon/]: Using mcmod dependency info : [Forge] [] []
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file Chisel-MC1.8.9-0.0.2.6.jar for potential mods
+[14:12:31] [Client thread/DEBUG] [FML/]: The mod container Chisel-MC1.8.9-0.0.2.6.jar appears to be missing an mcmod.info file
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (team.chisel.Chisel) - loading
+[14:12:31] [Client thread/TRACE] [chisel/]: Parsed dependency info : [] [] []
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file chiselsandbits-8.8.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file chiselsandbits-8.8.jar
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mod.chiselsandbits.core.ChiselsAndBits) - loading
+[14:12:31] [Client thread/TRACE] [chiselsandbits/]: Parsed dependency info : [Forge@[11.15.1.1755,)] [Forge@[11.15.1.1755,), mcmultipart@[1.0.8,), jei@[11.15.0.1697,)] []
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file extraplates-1.0.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file extraplates-1.0.jar
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.pyromonkey.extraplates.ExtraPlates) - loading
+[14:12:31] [Client thread/TRACE] [extraplates/]: Parsed dependency info : [] [] []
+[14:12:31] [Client thread/INFO] [extraplates/]: Mod extraplates is missing the required element 'name'. Substituting extraplates
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file FastLeafDecay-1.8-1.6.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file FastLeafDecay-1.8-1.6.jar
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.olafski.fastleafdecay.FastLeafDecay) - loading
+[14:12:31] [Client thread/TRACE] [fastleafdecay/]: Parsed dependency info : [] [] []
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file InventoryTweaks-1.60-40.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file InventoryTweaks-1.60-40.jar
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (invtweaks.forge.InvTweaksMod) - loading
+[14:12:31] [Client thread/TRACE] [inventorytweaks/]: Parsed dependency info : [Forge@[11.14.4,)] [Forge@[11.14.4,)] []
+[14:12:31] [Client thread/DEBUG] [inventorytweaks/]: Attempting to load the file version.properties from InventoryTweaks-1.60-40.jar to locate a version number for inventorytweaks
+[14:12:31] [Client thread/DEBUG] [inventorytweaks/]: Found version 1.60-40-e06e29a for mod inventorytweaks in version.properties, using
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file ironchest-1.8.9-6.0.125.770.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file ironchest-1.8.9-6.0.125.770.jar
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (cpw.mods.ironchest.IronChest) - loading
+[14:12:31] [Client thread/TRACE] [IronChest/]: Parsed dependency info : [Forge@[11.15.0,12.0]] [Forge@[11.15.0,12.0]] []
+[14:12:31] [Client thread/DEBUG] [IronChest/]: Attempting to load the file version.properties from ironchest-1.8.9-6.0.125.770.jar to locate a version number for IronChest
+[14:12:31] [Client thread/DEBUG] [IronChest/]: Found version 6.0.125.770 for mod IronChest in version.properties, using
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file jei_1.8.9-2.28.16.184.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file jei_1.8.9-2.28.16.184.jar
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mezz.jei.JustEnoughItems) - loading
+[14:12:31] [Client thread/TRACE] [JEI/]: Parsed dependency info : [Forge@[11.15.1.1808,)] [Forge@[11.15.1.1808,)] []
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file JEIAddons_1.8.9-0.12.0.57.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file JEIAddons_1.8.9-0.12.0.57.jar
+[14:12:31] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mezz.jeiaddons.JEIAddons) - loading
+[14:12:31] [Client thread/TRACE] [JEIAddons/]: Parsed dependency info : [JEI@[2.27,)] [JEI@[2.27,), Thaumcraft] []
+[14:12:31] [Client thread/DEBUG] [FML/]: Examining file journeymap-1.8.9-5.1.5-unlimited.jar for potential mods
+[14:12:31] [Client thread/TRACE] [FML/]: Located mcmod.info file in file journeymap-1.8.9-5.1.5-unlimited.jar
+[14:12:32] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (journeymap.common.Journeymap) - loading
+[14:12:32] [Client thread/TRACE] [journeymap/]: Using mcmod dependency info : [Forge@[11.15.1.1722,)] [Forge@[11.15.1.1722,)] []
+[14:12:32] [Client thread/DEBUG] [FML/]: Examining file justenoughoverlays-1.0.jar for potential mods
+[14:12:32] [Client thread/TRACE] [FML/]: Located mcmod.info file in file justenoughoverlays-1.0.jar
+[14:12:32] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.pyromonkey.JustEnoughGrids) - loading
+[14:12:32] [Client thread/TRACE] [justenoughgrids/]: Parsed dependency info : [] [] []
+[14:12:32] [Client thread/DEBUG] [FML/]: Examining file JustEnoughResources-1.8.9-0.4.0.jar for potential mods
+[14:12:32] [Client thread/TRACE] [FML/]: Located mcmod.info file in file JustEnoughResources-1.8.9-0.4.0.jar
+[14:12:32] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (jeresources.JEResources) - loading
+[14:12:32] [Client thread/TRACE] [jeresources/]: Parsed dependency info : [] [JEI@[2.27.0,)] []
+[14:12:32] [Client thread/DEBUG] [FML/]: Examining file Mantle-1.8.9-0.9.2.jar for potential mods
+[14:12:32] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Mantle-1.8.9-0.9.2.jar
+[14:12:32] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (slimeknights.mantle.Mantle) - loading
+[14:12:32] [Client thread/TRACE] [mantle/]: Parsed dependency info : [Forge@[11.15,)] [Forge@[11.15,)] []
+[14:12:32] [Client thread/DEBUG] [FML/]: Examining file Morpheus-1.8.9-2.0.58.jar for potential mods
+[14:12:32] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Morpheus-1.8.9-2.0.58.jar
+[14:12:32] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.quetzi.morpheus.Morpheus) - loading
+[14:12:32] [Client thread/TRACE] [Morpheus/]: Parsed dependency info : [Forge@[11.14.0.1239,)] [Forge@[11.14.0.1239,)] []
+[14:12:32] [Client thread/DEBUG] [FML/]: Examining file Psi-beta-23.jar for potential mods
+[14:12:32] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Psi-beta-23.jar
+[14:12:32] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (vazkii.psi.common.Psi) - loading
+[14:12:32] [Client thread/TRACE] [Psi/]: Parsed dependency info : [] [] []
+[14:12:32] [Client thread/DEBUG] [FML/]: Examining file redstonepaste-mc1.8.8-1.7.2.jar for potential mods
+[14:12:32] [Client thread/TRACE] [FML/]: Located mcmod.info file in file redstonepaste-mc1.8.8-1.7.2.jar
+[14:12:32] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.fybertech.redstonepaste.RedstonePasteMod) - loading
+[14:12:32] [Client thread/TRACE] [redstonepaste/]: Parsed dependency info : [] [] []
+[14:12:32] [Client thread/DEBUG] [FML/]: Examining file RoguelikeDungeons-1.8.9-1.4.5.jar for potential mods
+[14:12:32] [Client thread/TRACE] [FML/]: Located mcmod.info file in file RoguelikeDungeons-1.8.9-1.4.5.jar
+[14:12:32] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (greymerk.roguelike.Roguelike) - loading
+[14:12:32] [Client thread/TRACE] [Roguelike/]: Parsed dependency info : [] [] []
+[14:12:32] [Client thread/DEBUG] [FML/]: Examining file StorageDrawers-1.8.9-2.6.4.jar for potential mods
+[14:12:32] [Client thread/TRACE] [FML/]: Located mcmod.info file in file StorageDrawers-1.8.9-2.6.4.jar
+[14:12:32] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.jaquadro.minecraft.storagedrawers.StorageDrawers) - loading
+[14:12:32] [Client thread/TRACE] [StorageDrawers/]: Using mcmod dependency info : [Forge, Chameleon] [Chameleon] []
+[14:12:32] [Client thread/DEBUG] [FML/]: Examining file TConstruct-1.8.9-2.2.1.jar for potential mods
+[14:12:32] [Client thread/TRACE] [FML/]: Located mcmod.info file in file TConstruct-1.8.9-2.2.1.jar
+[14:12:32] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (slimeknights.tconstruct.TConstruct) - loading
+[14:12:32] [Client thread/TRACE] [tconstruct/]: Parsed dependency info : [mantle@[1.8.9-0.9.0,), Forge@[11.15.1.1761,)] [Forge@[11.15.1.1761,), mantle@[1.8.9-0.9.0,)] []
+[14:12:32] [Client thread/DEBUG] [FML/]: Examining file Thaumcraft-1.8.9-5.2.4.jar for potential mods
+[14:12:32] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Thaumcraft-1.8.9-5.2.4.jar
+[14:12:32] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (thaumcraft.common.Thaumcraft) - loading
+[14:12:32] [Client thread/TRACE] [Thaumcraft/]: Parsed dependency info : [Baubles@[1.1.3.0,), Forge@[11.15.1.1738,)] [Forge@[11.15.1.1738,), Baubles@[1.1.3.0,)] []
+[14:12:32] [Client thread/DEBUG] [FML/]: Examining file Waila-1.6.0-B3_1.8.8.jar for potential mods
+[14:12:32] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Waila-1.6.0-B3_1.8.8.jar
+[14:12:32] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mcp.mobius.waila.Waila) - loading
+[14:12:32] [Client thread/TRACE] [Waila/]: Parsed dependency info : [Forge@[11.15.0,)] [Forge@[11.15.0,)] []
+[14:12:32] [Client thread/DEBUG] [FML/]: Examining file Baubles-1.8.9-1.1.3.0.jar for potential mods
+[14:12:32] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Baubles-1.8.9-1.1.3.0.jar
+[14:12:32] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (baubles.common.Baubles) - loading
+[14:12:32] [Client thread/TRACE] [Baubles/]: Parsed dependency info : [Forge@[11.15.0,)] [Forge@[11.15.0,)] []
+[14:12:32] [Client thread/INFO] [FML/]: Forge Mod Loader has identified 31 mods to load
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API squeek.applecore.api (owned by AppleCore providing AppleCoreAPI) embedded in AppleCore
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api (owned by StorageDrawers providing StorageDrawersAPI) embedded in StorageDrawers
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API thaumcraft.api (owned by Thaumcraft providing Thaumcraft|API) embedded in Thaumcraft
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API com.infinityraider.agricraft.api (owned by AgriCraft providing AgriCraftAPI) embedded in agricraft
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.pack (owned by StorageDrawersAPI providing StorageDrawersAPI|pack) embedded in StorageDrawers
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API mezz.jei.api (owned by JEI providing JustEnoughItemsAPI) embedded in JEI
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API baubles.api (owned by Baubles providing Baubles|API) embedded in Baubles
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.storage.attribute (owned by StorageDrawersAPI providing StorageDrawersAPI|storage-attribute) embedded in StorageDrawers
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API journeymap.client.api (owned by journeymap providing journeymap|client-api) embedded in journeymap
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API team.chisel.api (owned by chisel providing ChiselAPI) embedded in chisel
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API journeymap.client.api.display (owned by journeymap providing journeymap|client-api-display) embedded in journeymap
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API mcp.mobius.waila.api (owned by Waila providing WailaAPI) embedded in agricraft
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API vazkii.botania.api (owned by Botania providing BotaniaAPI) embedded in Botania
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API jeresources.api (owned by jeresources providing jeresources|API) embedded in jeresources
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API vazkii.psi.api (owned by Psi providing PsiAPI) embedded in Psi
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API mod.chiselsandbits.api (owned by chiselsandbits providing ChiselsAndBitsAPI) embedded in chiselsandbits
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.inventory (owned by StorageDrawersAPI providing StorageDrawersAPI|inventory) embedded in StorageDrawers
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.render (owned by StorageDrawersAPI providing StorageDrawersAPI|render) embedded in StorageDrawers
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.storage (owned by StorageDrawersAPI providing StorageDrawersAPI|storage) embedded in StorageDrawers
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API journeymap.client.api.event (owned by journeymap providing journeymap|client-api-event) embedded in journeymap
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.config (owned by StorageDrawersAPI providing StorageDrawersAPI|config) embedded in StorageDrawers
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API WayofTime.bloodmagic.api (owned by BloodMagic providing BloodMagic|API) embedded in BloodMagic
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.event (owned by StorageDrawersAPI providing StorageDrawersAPI|event) embedded in StorageDrawers
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API team.chisel.api.carving (owned by Chisel providing ChiselAPI|Carving) embedded in chisel
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API journeymap.client.api.util (owned by journeymap providing journeymap|client-api-util) embedded in journeymap
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API journeymap.client.api.model (owned by journeymap providing journeymap|client-api-model) embedded in journeymap
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API mcp.mobius.waila.api (owned by Waila providing WailaAPI) embedded in Waila
+[14:12:32] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.registry (owned by StorageDrawersAPI providing StorageDrawersAPI|registry) embedded in StorageDrawers
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API AppleCoreAPI: owner: AppleCore, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API ChiselsAndBitsAPI: owner: chiselsandbits, dependents: []
+[14:12:32] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|registry:1.7.10-1.2.0}
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|registry: owner: StorageDrawersAPI, dependents: []
+[14:12:32] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|storage:1.7.10-1.2.0}
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|storage: owner: StorageDrawersAPI, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API AgriCraftAPI: owner: AgriCraft, dependents: [agricraft]
+[14:12:32] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|inventory:1.7.10-1.2.0}
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|inventory: owner: StorageDrawersAPI, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API BloodMagic|API: owner: BloodMagic, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI: owner: StorageDrawers, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API BotaniaAPI: owner: Botania, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API WailaAPI: owner: Waila, dependents: [agricraft]
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API ChiselAPI|Carving: owner: Chisel, dependents: [chisel]
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API jeresources|API: owner: jeresources, dependents: []
+[14:12:32] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|config:1.7.10-1.2.0}
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|config: owner: StorageDrawersAPI, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API PsiAPI: owner: Psi, dependents: []
+[14:12:32] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|event:1.7.10-1.2.0}
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|event: owner: StorageDrawersAPI, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API Baubles|API: owner: Baubles, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API JustEnoughItemsAPI: owner: JEI, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-display: owner: journeymap, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API Thaumcraft|API: owner: Thaumcraft, dependents: []
+[14:12:32] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|pack:1.7.10-1.2.0}
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|pack: owner: StorageDrawersAPI, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API ChiselAPI: owner: chisel, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-model: owner: journeymap, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api: owner: journeymap, dependents: []
+[14:12:32] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|storage-attribute:1.7.10-1.2.0}
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|storage-attribute: owner: StorageDrawersAPI, dependents: []
+[14:12:32] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|render:1.7.10-1.2.0}
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|render: owner: StorageDrawersAPI, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-event: owner: journeymap, dependents: []
+[14:12:32] [Client thread/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-util: owner: journeymap, dependents: []
+[14:12:32] [Client thread/TRACE] [FML/]: Received a system property request ''
+[14:12:32] [Client thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[14:12:32] [Client thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in forge-1.8.9-11.15.1.1855-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in forge-1.8.9-11.15.1.1855-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[14:12:32] [Client thread/DEBUG] [agricraft/]: Enabling mod agricraft
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in agricraft-2.0.0a3.jar [en_US, fr_CA, fr_FR, ru_RU, sv_SE, zh_CN]
+[14:12:32] [Client thread/DEBUG] [AppleCore/]: Enabling mod AppleCore
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in AppleCore-mc1.8.9-1.3.0.jar [en_US, ru_RU, zh_CN]
+[14:12:32] [Client thread/DEBUG] [bagginses/]: Enabling mod bagginses
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in Bagginses-1.8.9-2.1.5b.jar [de_DE, en_US, fr_FR, pl_PL, pt_BR, ru_RU, zh_CN]
+[14:12:32] [Client thread/DEBUG] [BiomesOPlenty/]: Enabling mod BiomesOPlenty
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in BiomesOPlenty-1.8.9-3.0.0.2004-universal.jar [en_US, ru_RU, de_DE, zh_TW, zh_CN]
+[14:12:32] [Client thread/DEBUG] [BloodMagic/]: Enabling mod BloodMagic
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in BloodMagic-1.8.9-2.0.0-20.jar [ko_KR, zh_CN, zh_TW, en_US, it_IT, ru_RU, de_DE, fr_FR, en_US]
+[14:12:32] [Client thread/DEBUG] [Botania/]: Enabling mod Botania
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in Botania-unofficial.r1.8-299.jar [zh_TW, ko_KR, es_AR, ru_RU, de_DE, en_US, es_ES, fr_FR, zh_CN, pt_BR, nl_NL, ja_JP]
+[14:12:32] [Client thread/DEBUG] [Chameleon/]: Enabling mod Chameleon
+[14:12:32] [Client thread/DEBUG] [chisel/]: Enabling mod chisel
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in Chisel-MC1.8.9-0.0.2.6.jar [en_US]
+[14:12:32] [Client thread/DEBUG] [chiselsandbits/]: Enabling mod chiselsandbits
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in chiselsandbits-8.8.jar [de_DE, en_US, ru_RU, zh_CN]
+[14:12:32] [Client thread/DEBUG] [extraplates/]: Enabling mod extraplates
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in extraplates-1.0.jar [en_US]
+[14:12:32] [Client thread/DEBUG] [fastleafdecay/]: Enabling mod fastleafdecay
+[14:12:32] [Client thread/DEBUG] [inventorytweaks/]: Enabling mod inventorytweaks
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in InventoryTweaks-1.60-40.jar [cs_CZ, da_DK, de_DE, en_US, es_ES, et_EE, fr_CA, fr_FR, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nl_NL, no_NO, pl_PL, pt_BR, pt_PT, ru_RU, sl_SI, sv_SE, tr_TR, uk_UA, zh_CN, zh_TW]
+[14:12:32] [Client thread/DEBUG] [IronChest/]: Enabling mod IronChest
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in ironchest-1.8.9-6.0.125.770.jar [sv_SE, pl_PL, da_DK, en_US, et_EE, cs_CZ, pt_BR, en_PT, tr_TR, es_ES, fr_FR, ru_RU, nb_NO, el_GR, de_DE, zh_TW, it_IT, ko_KR, pt_PT, zh_CN, nl_NL]
+[14:12:32] [Client thread/DEBUG] [JEI/]: Enabling mod JEI
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in jei_1.8.9-2.28.16.184.jar [fi_FI, ko_KR, en_US, zh_CN, de_DE, ru_RU]
+[14:12:32] [Client thread/DEBUG] [JEIAddons/]: Enabling mod JEIAddons
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in JEIAddons_1.8.9-0.12.0.57.jar [en_US, fr_FR, zh_CN, ru_RU]
+[14:12:32] [Client thread/DEBUG] [journeymap/]: Enabling mod journeymap
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in journeymap-1.8.9-5.1.5-unlimited.jar [ar_SA, ca_ES, de_DE, en_US, es_ES, fi_FI, fr_CA, fr_FR, hu_HU, ja_JP, ko_KR, nl_NL, no_NO, pt_BR, ru_RU, sv_SE, zh_CN]
+[14:12:32] [Client thread/DEBUG] [justenoughgrids/]: Enabling mod justenoughgrids
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in justenoughoverlays-1.0.jar [en_US]
+[14:12:32] [Client thread/DEBUG] [jeresources/]: Enabling mod jeresources
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in JustEnoughResources-1.8.9-0.4.0.jar [en_US, nl_NL, ru_RU, zh_CN]
+[14:12:32] [Client thread/DEBUG] [mantle/]: Enabling mod mantle
+[14:12:32] [Client thread/DEBUG] [Morpheus/]: Enabling mod Morpheus
+[14:12:32] [Client thread/DEBUG] [Psi/]: Enabling mod Psi
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in Psi-beta-23.jar [en_US, pt_BR, zh_CN]
+[14:12:32] [Client thread/DEBUG] [redstonepaste/]: Enabling mod redstonepaste
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in redstonepaste-mc1.8.8-1.7.2.jar [en_US]
+[14:12:32] [Client thread/DEBUG] [Roguelike/]: Enabling mod Roguelike
+[14:12:32] [Client thread/DEBUG] [StorageDrawers/]: Enabling mod StorageDrawers
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in StorageDrawers-1.8.9-2.6.4.jar [de_DE, en_US, es_AR, fr_FR, he_IL, ja_JP, ko_KR, pl_PL, ru_RU, zh_CN, zh_TW]
+[14:12:32] [Client thread/DEBUG] [tconstruct/]: Enabling mod tconstruct
+[14:12:32] [Client thread/DEBUG] [FML/]: Found translations in TConstruct-1.8.9-2.2.1.jar [en_US]
+[14:12:32] [Client thread/DEBUG] [Thaumcraft/]: Enabling mod Thaumcraft
+[14:12:33] [Client thread/DEBUG] [FML/]: Found translations in Thaumcraft-1.8.9-5.2.4.jar [ca_ES, de_DE, en_US, es_AR, es_ES, es_MX, es_UY, es_VE, et_EE, fi_FI, fr_FR, it_IT, ja_JP, ko_KR, nl_NL, pt_BR, pt_PT, ru_RU, sv_SE, zh_CN, zh_TW]
+[14:12:33] [Client thread/DEBUG] [Waila/]: Enabling mod Waila
+[14:12:33] [Client thread/DEBUG] [FML/]: Found translations in Waila-1.6.0-B3_1.8.8.jar [fr_FR, de_DE, et_EE, cs_CZ, zh_CN, ru_RU, nl_NL, it_IT, en_US]
+[14:12:33] [Client thread/DEBUG] [Baubles/]: Enabling mod Baubles
+[14:12:33] [Client thread/DEBUG] [FML/]: Found translations in Baubles-1.8.9-1.1.3.0.jar [ar_SA, cs_CZ, da_DK, de_DE, en_US, es_ES, et_EE, fi_FI, fr_CA, fr_FR, it_IT, ko_KR, nl_NL, no_NO, pl_PL, pt_BR, ru_RU, zh_CN, zh_TW]
+[14:12:33] [Client thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[14:12:33] [Client thread/ERROR] [FML/]: The mod justenoughgrids does not wish to run in Minecraft version Minecraft 1.8.9. You will have to remove it to play.
+[14:12:33] [Client thread/ERROR] [FML/]: Wrong Minecraft version for justenoughgrids
+[14:12:33] [Client thread/DEBUG] [FML/]: Mod sorting data
+[14:12:33] [Client thread/DEBUG] [FML/]: 	agricraft(AgriCraft:2.0.0a3): agricraft-2.0.0a3.jar ()
+[14:12:33] [Client thread/DEBUG] [FML/]: 	AppleCore(AppleCore:1.3.0): AppleCore-mc1.8.9-1.3.0.jar (after:JEI@[2.26,); required-after:Forge@[11.15.1.1802,))
+[14:12:33] [Client thread/DEBUG] [FML/]: 	bagginses(Bagginses:2.1.5b): Bagginses-1.8.9-2.1.5b.jar ()
+[14:12:33] [Client thread/DEBUG] [FML/]: 	BiomesOPlenty(Biomes O' Plenty:3.0.0): BiomesOPlenty-1.8.9-3.0.0.2004-universal.jar (required-after:Forge@[11.14.3.1468,))
+[14:12:33] [Client thread/DEBUG] [FML/]: 	BloodMagic(Blood Magic: Alchemical Wizardry:1.8.9-2.0.0-20): BloodMagic-1.8.9-2.0.0-20.jar (after:JEI@[2.23.0,);after:guideapi)
+[14:12:33] [Client thread/DEBUG] [FML/]: 	Botania(Botania:r1.8-299): Botania-unofficial.r1.8-299.jar (required-after:Baubles;after:Thaumcraft)
+[14:12:33] [Client thread/DEBUG] [FML/]: 	Chameleon(Chameleon:1.8.9-1.1.2): Chameleon-1.8.9-1.1.2.jar ()
+[14:12:33] [Client thread/DEBUG] [FML/]: 	chisel(Chisel:@VERSION@): Chisel-MC1.8.9-0.0.2.6.jar ()
+[14:12:33] [Client thread/DEBUG] [FML/]: 	chiselsandbits(Chisels & Bits:8.8): chiselsandbits-8.8.jar (required-after:Forge@[11.15.1.1755,);after:mcmultipart@[1.0.8,);after:jei@[11.15.0.1697,))
+[14:12:33] [Client thread/DEBUG] [FML/]: 	extraplates(extraplates:1.0): extraplates-1.0.jar ()
+[14:12:33] [Client thread/DEBUG] [FML/]: 	fastleafdecay(Fast Leaf Decay:1.6): FastLeafDecay-1.8-1.6.jar ()
+[14:12:33] [Client thread/DEBUG] [FML/]: 	inventorytweaks(Inventory Tweaks:1.60-40-e06e29a): InventoryTweaks-1.60-40.jar (required-after:Forge@[11.14.4,))
+[14:12:33] [Client thread/DEBUG] [FML/]: 	IronChest(Iron Chest:6.0.125.770): ironchest-1.8.9-6.0.125.770.jar (required-after:Forge@[11.15.0,12.0])
+[14:12:33] [Client thread/DEBUG] [FML/]: 	JEI(Just Enough Items:2.28.16.184): jei_1.8.9-2.28.16.184.jar (required-after:Forge@[11.15.1.1808,);)
+[14:12:33] [Client thread/DEBUG] [FML/]: 	JEIAddons(Just Enough Items Addons:0.12.0.57): JEIAddons_1.8.9-0.12.0.57.jar (required-after:JEI@[2.27,);after:Thaumcraft)
+[14:12:33] [Client thread/DEBUG] [FML/]: 	journeymap(JourneyMap:1.8.9-5.1.5): journeymap-1.8.9-5.1.5-unlimited.jar ()
+[14:12:33] [Client thread/DEBUG] [FML/]: 	justenoughgrids(Just Enough Grids:1.0): justenoughoverlays-1.0.jar ()
+[14:12:33] [Client thread/DEBUG] [FML/]: 	jeresources(Just Enough Resources:0.4.0): JustEnoughResources-1.8.9-0.4.0.jar (after:JEI@[2.27.0,);)
+[14:12:33] [Client thread/DEBUG] [FML/]: 	mantle(Mantle:1.8.9-0.9.2.jenkins102): Mantle-1.8.9-0.9.2.jar (required-after:Forge@[11.15,))
+[14:12:33] [Client thread/DEBUG] [FML/]: 	Morpheus(Morpheus:1.8.9-2.0.58): Morpheus-1.8.9-2.0.58.jar (required-after:Forge@[11.14.0.1239,);)
+[14:12:33] [Client thread/DEBUG] [FML/]: 	Psi(Psi:beta-23): Psi-beta-23.jar ()
+[14:12:33] [Client thread/DEBUG] [FML/]: 	redstonepaste(Redstone Paste:1.7.2): redstonepaste-mc1.8.8-1.7.2.jar ()
+[14:12:33] [Client thread/DEBUG] [FML/]: 	Roguelike(Roguelike Dungeons:1.4.5): RoguelikeDungeons-1.8.9-1.4.5.jar ()
+[14:12:33] [Client thread/DEBUG] [FML/]: 	StorageDrawers(Storage Drawers:1.8.9-2.6.4): StorageDrawers-1.8.9-2.6.4.jar ()
+[14:12:33] [Client thread/DEBUG] [FML/]: 	tconstruct(Tinkers' Construct:1.8.9-2.2.1.jenkins1005): TConstruct-1.8.9-2.2.1.jar (required-after:Forge@[11.15.1.1761,);required-after:mantle@[1.8.9-0.9.0,))
+[14:12:33] [Client thread/DEBUG] [FML/]: 	Thaumcraft(Thaumcraft:5.2.4): Thaumcraft-1.8.9-5.2.4.jar (required-after:Forge@[11.15.1.1738,);required-after:Baubles@[1.1.3.0,))
+[14:12:33] [Client thread/DEBUG] [FML/]: 	Waila(Waila:1.6.0): Waila-1.6.0-B3_1.8.8.jar (required-after:Forge@[11.15.0,))
+[14:12:33] [Client thread/DEBUG] [FML/]: 	Baubles(Baubles:1.1.3.0): Baubles-1.8.9-1.1.3.0.jar (required-after:Forge@[11.15.0,);)
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Default took 0.005s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.002s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.002s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:AgriCraft took 0.002s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:AppleCore took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Bagginses took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Biomes O' Plenty took 0.006s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Blood Magic: Alchemical Wizardry took 0.003s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Botania took 0.006s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Chameleon took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Chisel took 0.005s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Chisels & Bits took 0.001s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:extraplates took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Fast Leaf Decay took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Inventory Tweaks took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Iron Chest took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Just Enough Items took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Just Enough Items Addons took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:JourneyMap took 0.001s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Just Enough Grids took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Just Enough Resources took 0.001s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Mantle took 0.003s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Morpheus took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Psi took 0.002s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Redstone Paste took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Roguelike Dungeons took 0.001s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Storage Drawers took 0.001s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Tinkers' Construct took 0.002s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Thaumcraft took 0.004s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Waila took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Baubles took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading took 0.059s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 0.059s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resources took 0.109s
+[14:12:33] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [AgriCraft/]: Mod AgriCraft is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [AppleCore/]: Mod AppleCore is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Blood Magic: Alchemical Wizardry/]: Mod Blood Magic: Alchemical Wizardry is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Chameleon/]: Mod Chameleon is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Chisel/]: Mod Chisel is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [extraplates/]: Mod extraplates is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Fast Leaf Decay/]: Mod Fast Leaf Decay is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Iron Chest/]: Mod Iron Chest is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Just Enough Items/]: Mod Just Enough Items is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Just Enough Items Addons/]: Mod Just Enough Items Addons is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [JourneyMap/]: Mod JourneyMap is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Just Enough Grids/]: Mod Just Enough Grids is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Just Enough Resources/]: Mod Just Enough Resources is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Mantle/]: Mod Mantle is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Morpheus/]: Mod Morpheus is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Redstone Paste/]: Mod Redstone Paste is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Roguelike Dungeons/]: Mod Roguelike Dungeons is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Storage Drawers/]: Mod Storage Drawers is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/DEBUG] [Waila/]: Mod Waila is missing a pack.mcmeta file, substituting a dummy one
+[14:12:33] [Client thread/WARN] [FML/]: There were errors previously. Not beginning mod initialization phase
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - TextureManager took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - SoundHandler took 0.304s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.005s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.003s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - GrassColorReloadListener took 0.007s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FoliageColorReloadListener took 0.008s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - GL Setup took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Texture Map took 0.008s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - B3DLoader took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - OBJLoader took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelFluid$FluidLoader took 0.000s
+[14:12:33] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ItemLayerModel$Loader took 0.000s
+[14:12:34] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - MultiLayerModel$Loader took 0.000s
+[14:12:34] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelDynBucket$LoaderDynBucket took 0.000s
+[14:12:35] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: blocks took 1.285s
+[14:12:35] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: items took 0.341s
+[14:12:35] [Client thread/INFO] [FML/]: Max texture size: 16384
+[14:12:35] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching - missingno took 0.001s
+[14:12:35] [Client thread/DEBUG] [FML/]: Bar Finished: Texture creation took 0.003s
+[14:12:36] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelManager took 2.147s
+[14:12:36] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Model Manager took 2.196s
+[14:12:36] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderItem took 0.003s
+[14:12:36] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Item Renderer took 0.254s
+[14:12:36] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - EntityRenderer took 0.000s
+[14:12:36] [Client thread/INFO] [STDOUT/]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
+[14:12:36] [Client thread/INFO] [STDOUT/]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
+[14:12:36] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - BlockRendererDispatcher took 0.000s
+[14:12:36] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderGlobal took 0.000s
+[14:12:36] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Entity Renderer took 0.191s
+[14:12:36] [Client thread/DEBUG] [FML/]: Bar Finished: Rendering Setup took 2.650s
